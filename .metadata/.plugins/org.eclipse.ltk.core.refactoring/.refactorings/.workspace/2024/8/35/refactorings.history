@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;destinationHashgenerator&apos;" deleteContents="false" description="Delete resource &apos;destinationHashgenerator&apos;" element1="/destinationHashgenerator" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1724859994640"/>
+</session>
